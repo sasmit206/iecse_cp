@@ -56,9 +56,9 @@ using namespace std;
 int main() {
 	// your code goes here
     int itr;
-    cin>>itr; //no of iterations
+    cin>>itr; 
     while(itr){
-        int n; //no of opponents
+        int n; 
         vector<int>a;
         vector<int>b;
         cin>>n; 
